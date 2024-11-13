@@ -124,6 +124,7 @@ int main() {
             temp->next = common;
         Solution ob;
         cout << ob.intersectPoint(head1, head2) << endl;
+        cout << "~" << endl;
     }
     return 0;
 }
