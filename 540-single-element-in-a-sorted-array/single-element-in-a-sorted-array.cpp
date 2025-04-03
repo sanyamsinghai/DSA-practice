@@ -17,18 +17,14 @@ public:
         int high = n - 2;
 
         while (low <= high) {
-
             int mid = low + (high - low) / 2;
-            if (nums[mid] != nums[mid + 1] && nums[mid] != nums[mid - 1]) {
-                return nums[mid];
-            }
 
-            // we are on left half
-            if ((mid % 2 == 1 && nums[mid] == nums[mid - 1]) ||
-                (mid % 2 == 0 && nums[mid] == nums[mid + 1])) {
+            if (nums[mid] != nums[mid - 1] && nums[mid] != nums[mid + 1]) {
+                return nums[mid];
+            } else if (mid % 2 == 0 && nums[mid] == nums[mid + 1] ||
+                       mid % 2 != 0 && nums[mid] == nums[mid - 1]) {
                 low = mid + 1;
-            } 
-            else { // we are on right half
+            } else {
                 high = mid - 1;
             }
         }
