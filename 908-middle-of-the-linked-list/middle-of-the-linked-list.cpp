@@ -25,5 +25,15 @@ public:
             temp = temp->next;
         }
         return temp;
+
+        // in single pass using two pointers
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
     }
 };
