@@ -12,6 +12,7 @@ class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
 
+        /*
         // using 2 pass
         ListNode* temp = head;
         int size = 0;
@@ -25,12 +26,13 @@ public:
             temp = temp->next;
         }
         return temp;
+        */
 
         // in single pass using two pointers
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while (fast != NULL) {
+        while (fast != NULL && fast->next != NULL) {
             slow = slow->next;
             fast = fast->next->next;
         }
