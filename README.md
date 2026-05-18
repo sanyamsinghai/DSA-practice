@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/sanyamsinghai/DSA-practice/tree/master/0326-power-of-three) |
 | [1227-airplane-seat-assignment-probability](https://github.com/sanyamsinghai/DSA-practice/tree/master/1227-airplane-seat-assignment-probability) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/sanyamsinghai/DSA-practice/tree/master/1227-airplane-seat-assignment-probability) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sanyamsinghai/DSA-practice/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
