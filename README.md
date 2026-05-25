@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
 | [2540-minimum-common-value](https://github.com/sanyamsinghai/DSA-practice/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -21,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sanyamsinghai/DSA-practice/tree/master/0326-power-of-three) |
+| [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/sanyamsinghai/DSA-practice/tree/master/1227-airplane-seat-assignment-probability) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/sanyamsinghai/DSA-practice/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
 |  |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0011-container-with-most-water) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
