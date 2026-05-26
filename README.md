@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/sanyamsinghai/DSA-practice/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
