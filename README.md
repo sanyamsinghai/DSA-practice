@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/sanyamsinghai/DSA-practice/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0011-container-with-most-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/sanyamsinghai/DSA-practice/tree/master/2540-minimum-common-value) |
 ## Interactive
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
