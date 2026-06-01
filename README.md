@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sanyamsinghai/DSA-practice/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/sanyamsinghai/DSA-practice/tree/master/1227-airplane-seat-assignment-probability) |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
