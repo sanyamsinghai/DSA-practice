@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [2942-find-words-containing-character](https://github.com/sanyamsinghai/DSA-practice/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanyamsinghai/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanyamsinghai/DSA-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
