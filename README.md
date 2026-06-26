@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/sanyamsinghai/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sanyamsinghai/DSA-practice/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
@@ -120,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0204-count-primes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
