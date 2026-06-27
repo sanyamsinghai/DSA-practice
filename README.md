@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sanyamsinghai/DSA-practice/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/sanyamsinghai/DSA-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sanyamsinghai/DSA-practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
 | [2942-find-words-containing-character](https://github.com/sanyamsinghai/DSA-practice/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0682-baseball-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sanyamsinghai/DSA-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
