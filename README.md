@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanyamsinghai/DSA-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/1512-number-of-good-pairs) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanyamsinghai/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sanyamsinghai/DSA-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/sanyamsinghai/DSA-practice/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/sanyamsinghai/DSA-practice/tree/master/2574-left-and-right-sum-differences) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanyamsinghai/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/sanyamsinghai/DSA-practice/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
