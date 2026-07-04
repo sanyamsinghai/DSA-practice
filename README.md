@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanyamsinghai/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/sanyamsinghai/DSA-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanyamsinghai/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0283-move-zeroes) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sanyamsinghai/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanyamsinghai/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
