@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanyamsinghai/DSA-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/1512-number-of-good-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanyamsinghai/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sanyamsinghai/DSA-practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanyamsinghai/DSA-practice/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sanyamsinghai/DSA-practice/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
 |  |
