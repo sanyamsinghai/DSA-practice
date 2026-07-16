@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanyamsinghai/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/sanyamsinghai/DSA-practice/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sanyamsinghai/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanyamsinghai/DSA-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sanyamsinghai/DSA-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/sanyamsinghai/DSA-practice/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Interactive
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanyamsinghai/DSA-practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -146,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/sanyamsinghai/DSA-practice/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sanyamsinghai/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
