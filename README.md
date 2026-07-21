@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sanyamsinghai/DSA-practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/sanyamsinghai/DSA-practice/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
