@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/sanyamsinghai/DSA-practice/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/sanyamsinghai/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Sorting
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanyamsinghai/DSA-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
