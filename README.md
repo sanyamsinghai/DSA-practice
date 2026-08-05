@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sanyamsinghai/DSA-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0054-spiral-matrix) |
+| [0090-subsets-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0204-count-primes) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sanyamsinghai/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sanyamsinghai/DSA-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/sanyamsinghai/DSA-practice/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0090-subsets-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
