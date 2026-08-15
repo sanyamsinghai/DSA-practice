@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanyamsinghai/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanyamsinghai/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanyamsinghai/DSA-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3838-weighted-word-mapping](https://github.com/sanyamsinghai/DSA-practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sanyamsinghai/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanyamsinghai/DSA-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
 | ------- |
