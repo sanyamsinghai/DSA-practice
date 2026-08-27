@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sanyamsinghai/DSA-practice/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0204-count-primes) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sanyamsinghai/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
