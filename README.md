@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanyamsinghai/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanyamsinghai/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0682-baseball-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanyamsinghai/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/sanyamsinghai/DSA-practice/tree/master/0041-first-missing-positive) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanyamsinghai/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanyamsinghai/DSA-practice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanyamsinghai/DSA-practice/tree/master/0015-3sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanyamsinghai/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanyamsinghai/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
