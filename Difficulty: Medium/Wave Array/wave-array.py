@@ -1,10 +1,5 @@
 class Solution:
     def sortInWave(self, arr):
-        # code here
-        i=0
-        j=1
-        while i<len(arr) and j<len(arr):
-            arr[i],arr[j]=arr[j],arr[i]
-            i+=2
-            j+=2
+        for i in range(0, len(arr) - 1, 2):
+            arr[i], arr[i + 1] = arr[i + 1], arr[i]
         
