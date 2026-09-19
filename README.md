@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sanyamsinghai/DSA-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sanyamsinghai/DSA-practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sanyamsinghai/DSA-practice/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0090-subsets-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanyamsinghai/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/sanyamsinghai/DSA-practice/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/sanyamsinghai/DSA-practice/tree/master/1227-airplane-seat-assignment-probability) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanyamsinghai/DSA-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanyamsinghai/DSA-practice/tree/master/0287-find-the-duplicate-number) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanyamsinghai/DSA-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
