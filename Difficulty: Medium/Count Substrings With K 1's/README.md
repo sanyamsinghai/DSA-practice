@@ -1,0 +1,6 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/count-of-substrings-containing-k-ones2304/1">Count Substrings With K 1's</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 20px;">Given a binary string<strong> s</strong> and an integer <strong>k</strong>, return the number of substrings of s that contain exactly <strong>k ones</strong>.</span></p><p><strong><span style="font-size: 18px;">Examples:</span></strong></p><pre><span style="font-size: 18px;"><strong>Input:</strong> s = "10010", k = 1
+<strong>Output:</strong> 9
+<strong>Explanation:</strong> The 9 substrings containing one 1 are, "1", "10", "100", "001", "01", "1", "10", "0010" and "010".</span>
+</pre><pre><span style="font-size: 18px;"><strong>Input:</strong> s = 111, k = 2 
+<strong>Output:</strong> 2 
+<strong>Explanation:</strong> The 2 substrings containing two 1 are "11", "11".</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Hash</code>&nbsp;<code>Strings</code>&nbsp;
