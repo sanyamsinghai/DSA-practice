@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanyamsinghai/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sanyamsinghai/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/sanyamsinghai/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sanyamsinghai/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0503-next-greater-element-ii) |
@@ -336,5 +338,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
