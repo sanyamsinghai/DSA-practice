@@ -357,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyamsinghai/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/sanyamsinghai/DSA-practice/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
