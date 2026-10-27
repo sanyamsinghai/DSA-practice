@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sanyamsinghai/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyamsinghai/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/sanyamsinghai/DSA-practice/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanyamsinghai/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0682-baseball-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyamsinghai/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanyamsinghai/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/sanyamsinghai/DSA-practice/tree/master/0500-keyboard-row) |
 | [1331-rank-transform-of-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanyamsinghai/DSA-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/1512-number-of-good-pairs) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/sanyamsinghai/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/sanyamsinghai/DSA-practice/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/sanyamsinghai/DSA-practice/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/sanyamsinghai/DSA-practice/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanyamsinghai/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
