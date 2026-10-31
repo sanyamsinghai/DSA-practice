@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sanyamsinghai/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/sanyamsinghai/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanyamsinghai/DSA-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanyamsinghai/DSA-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanyamsinghai/DSA-practice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sanyamsinghai/DSA-practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sanyamsinghai/DSA-practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sanyamsinghai/DSA-practice/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/sanyamsinghai/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyamsinghai/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/sanyamsinghai/DSA-practice/tree/master/0507-perfect-number) |
