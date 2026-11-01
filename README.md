@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sanyamsinghai/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sanyamsinghai/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sanyamsinghai/DSA-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/sanyamsinghai/DSA-practice/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sanyamsinghai/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sanyamsinghai/DSA-practice/tree/master/0500-keyboard-row) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sanyamsinghai/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanyamsinghai/DSA-practice/tree/master/0032-longest-valid-parentheses) |
+| [0383-ransom-note](https://github.com/sanyamsinghai/DSA-practice/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/sanyamsinghai/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/sanyamsinghai/DSA-practice/tree/master/0500-keyboard-row) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanyamsinghai/DSA-practice/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/sanyamsinghai/DSA-practice/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/sanyamsinghai/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/sanyamsinghai/DSA-practice/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
