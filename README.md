@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sanyamsinghai/DSA-practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanyamsinghai/DSA-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sanyamsinghai/DSA-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sanyamsinghai/DSA-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/sanyamsinghai/DSA-practice/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sanyamsinghai/DSA-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sanyamsinghai/DSA-practice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sanyamsinghai/DSA-practice/tree/master/0682-baseball-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sanyamsinghai/DSA-practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sanyamsinghai/DSA-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanyamsinghai/DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sanyamsinghai/DSA-practice/tree/master/3612-process-string-with-special-operations-i) |
