@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/sanyamsinghai/DSA-practice/tree/master/0177-nth-highest-salary) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/sanyamsinghai/DSA-practice/tree/master/1204-last-person-to-fit-in-the-bus) |
 ## Binary Indexed Tree
 |  |
 | ------- |
